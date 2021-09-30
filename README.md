@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **self improvement**
 
-- 🌱 I’m currently learning **![](https://img.shields.io/badge/Javascript-yellow)**
+- 🌱 improving skills in : **![](https://img.shields.io/badge/JavaScript-yellow)![](https://img.shields.io/badge/REACT-blue)![](https://img.shields.io/badge/Python-pink)![](https://img.shields.io/badge/BOOTSTRAP-black)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tufoinnkuo10](https://github.com/tufoinnkuo10)
 
