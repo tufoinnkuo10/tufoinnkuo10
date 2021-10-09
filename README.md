@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **![](https://img.shields.io/badge/REACT-violet)**
 
-- 📫 How to reach me **tufoinnkuo10@gmail.com**
+- 📫 How to reach me at: Email=>**tufoinnkuo10@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
