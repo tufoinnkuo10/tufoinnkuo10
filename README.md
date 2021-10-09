@@ -1,7 +1,8 @@
 
 <h1 align="center">Hello👋, I'm Tufoin-Nkuo</h1>
-<h3 align="center">A passionate frontend developer and student at microverse</h3>
+<h3 align="center">A passionate full-stack developer (javaScript, React etc) <br> currently a student at microverse</h3>
 
+- 🥇 💻 **open to new job opportunities**
 
 - 🔭 I’m currently working on **self improvement**
 
