@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello👋, I'm Tufoin-Nkuo</h1>
-<h3 align="center">A passionate full-stack developer (javaScript, React etc) <br> currently a student at microverse</h3>
+<h3 align="center">A passionate full-stack developer (javaScript, React, Ruby on Rails etc) <br> </h3>
 
 - 🥇 💻 **open to new job opportunities**
 
